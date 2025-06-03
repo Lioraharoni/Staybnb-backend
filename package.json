@@ -1,0 +1,24 @@
+{
+  "name": "staybnb-backend",
+  "version": "1.0.0",
+  "description": "staybnb backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --ignore \"./data\" server.js",
+    "server:prod": "set NODE_ENV=production&node server.js",
+    "server:prod:mac": "export NODE_ENV=production && node server.js"
+  },
+  "author": "Liora & Noam",
+  "license": "ISC",
+  "dependencies": {
+    "async_hooks": "^1.0.0",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "cryptr": "^6.3.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  }
+}

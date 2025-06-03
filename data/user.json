@@ -1,0 +1,25 @@
+[
+    {
+        "fullname": "B B",
+        "username": "bbb",
+        "password": "bbb",
+        "score": 120,
+        "_id": "38xjTG",
+        "createdAt": 1746449550025
+    },
+    {
+        "fullname": "A A",
+        "username": "aaa",
+        "password": "aaa",
+        "score": 101,
+        "_id": "TJClY3",
+        "createdAt": 1746448586499
+    },
+    {
+        "_id": "u101",
+        "fullname": "Muki Ja",
+        "username": "muki",
+        "password": "muki1234",
+        "score": 100
+    }
+]

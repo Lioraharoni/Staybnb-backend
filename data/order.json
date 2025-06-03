@@ -1,0 +1,696 @@
+[
+    {
+        "_id": "hP39o",
+        "stayId": "622f337a75c7d36e498aaafa",
+        "user": {
+            "_id": "TJClY3",
+            "fullname": "A A",
+            "score": 101,
+            "wishlist": [
+                "622f337a75c7d36e498aab0d",
+                "622f337b75c7d36e498aab78",
+                "622f337a75c7d36e498aab09",
+                "622f337a75c7d36e498aaafe",
+                "622f337a75c7d36e498aab0a",
+                "622f337a75c7d36e498aaafc",
+                "622f337a75c7d36e498aaaf8",
+                "622f337a75c7d36e498aaafa",
+                "622f337a75c7d36e498aaafd",
+                "622f337a75c7d36e498aab00",
+                "622f337a75c7d36e498aab02",
+                "622f337a75c7d36e498aab04"
+            ]
+        },
+        "createdAt": 1747734266025,
+        "from": "2025-05-31T21:00:00.000Z",
+        "to": "2025-06-04T21:00:00.000Z",
+        "price": 355,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "trQfw",
+        "stayId": "622f337a75c7d36e498aab1b",
+        "user": {
+            "_id": "TJClY3",
+            "fullname": "A A",
+            "score": 101,
+            "wishlist": [
+                "622f337a75c7d36e498aab0d",
+                "622f337b75c7d36e498aab78",
+                "622f337a75c7d36e498aab09",
+                "622f337a75c7d36e498aaafe",
+                "622f337a75c7d36e498aab0a",
+                "622f337a75c7d36e498aaafc",
+                "622f337a75c7d36e498aaaf8",
+                "622f337a75c7d36e498aaafa",
+                "622f337a75c7d36e498aaafd",
+                "622f337a75c7d36e498aab00",
+                "622f337a75c7d36e498aab02",
+                "622f337a75c7d36e498aab04"
+            ]
+        },
+        "createdAt": 1747734563161,
+        "from": "2026-01-04T22:00:00.000Z",
+        "to": "2026-01-07T22:00:00.000Z",
+        "price": 695,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "iadsm",
+        "stayId": "622f337a75c7d36e498aab13",
+        "user": {
+            "_id": "TJClY3",
+            "fullname": "A A",
+            "score": 101,
+            "wishlist": [
+                "622f337a75c7d36e498aab0d",
+                "622f337b75c7d36e498aab78",
+                "622f337a75c7d36e498aab09",
+                "622f337a75c7d36e498aaafe",
+                "622f337a75c7d36e498aab0a",
+                "622f337a75c7d36e498aaafc",
+                "622f337a75c7d36e498aaaf8",
+                "622f337a75c7d36e498aaafa",
+                "622f337a75c7d36e498aaafd",
+                "622f337a75c7d36e498aab00",
+                "622f337a75c7d36e498aab02",
+                "622f337a75c7d36e498aab04"
+            ]
+        },
+        "createdAt": 1747734587520,
+        "from": "2025-06-23T21:00:00.000Z",
+        "to": "2025-07-02T21:00:00.000Z",
+        "price": 1634,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "nKqCm",
+        "stayId": "622f337a75c7d36e498aab01",
+        "user": {
+            "_id": "38xjTG",
+            "fullname": "B B",
+            "score": 120,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab04",
+                "622f337a75c7d36e498aab01"
+            ]
+        },
+        "createdAt": 1747734615208,
+        "from": "2025-05-24T21:00:00.000Z",
+        "to": "2025-05-28T21:00:00.000Z",
+        "price": 515,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "5mq1v",
+        "stayId": "622f337a75c7d36e498aab0f",
+        "user": {
+            "_id": "38xjTG",
+            "fullname": "B B",
+            "score": 120,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab04",
+                "622f337a75c7d36e498aab01"
+            ]
+        },
+        "createdAt": 1747734653433,
+        "from": "2025-06-30T21:00:00.000Z",
+        "to": "2025-07-04T21:00:00.000Z",
+        "price": 1195,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "LeCsP",
+        "stayId": "622f337a75c7d36e498aaaff",
+        "user": {
+            "_id": "38xjTG",
+            "fullname": "B B",
+            "score": 120,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab04",
+                "622f337a75c7d36e498aab01"
+            ]
+        },
+        "createdAt": 1747734674801,
+        "from": "2025-05-24T21:00:00.000Z",
+        "to": "2025-05-28T21:00:00.000Z",
+        "price": 211,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "3WbOV",
+        "stayId": "622f337a75c7d36e498aab19",
+        "user": {
+            "_id": "38xjTG",
+            "fullname": "B B",
+            "score": 120,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab04",
+                "622f337a75c7d36e498aab01",
+                "622f337a75c7d36e498aab19"
+            ]
+        },
+        "createdAt": 1747734705272,
+        "from": "2025-07-13T21:00:00.000Z",
+        "to": "2025-07-15T21:00:00.000Z",
+        "price": 691,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "bQWld",
+        "stayId": "622f337a75c7d36e498aab37",
+        "user": {
+            "_id": "38xjTG",
+            "fullname": "B B",
+            "score": 120,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab04",
+                "622f337a75c7d36e498aab01",
+                "622f337a75c7d36e498aab19"
+            ]
+        },
+        "createdAt": 1747734994273,
+        "from": "2025-06-17T21:00:00.000Z",
+        "to": "2025-06-18T21:00:00.000Z",
+        "price": 170,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "rSUXC",
+        "stayId": "622f337a75c7d36e498aaafb",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff"
+            ]
+        },
+        "createdAt": 1747735038552,
+        "from": "2025-05-20T21:00:00.000Z",
+        "to": "2025-05-22T21:00:00.000Z",
+        "price": 253,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "8mpYz",
+        "stayId": "622f337a75c7d36e498aab24",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff"
+            ]
+        },
+        "createdAt": 1747735084896,
+        "from": "2025-08-02T21:00:00.000Z",
+        "to": "2025-08-04T21:00:00.000Z",
+        "price": 2089,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "3pXvs",
+        "stayId": "622f337a75c7d36e498aab15",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747736364128,
+        "from": "2025-08-23T21:00:00.000Z",
+        "to": "2025-08-27T21:00:00.000Z",
+        "price": 543,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "64Dl0",
+        "stayId": "622f337b75c7d36e498aabbe",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747736420296,
+        "from": "2025-05-25T21:00:00.000Z",
+        "to": "2025-05-28T21:00:00.000Z",
+        "price": 365,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "Tq1fm",
+        "stayId": "622f337a75c7d36e498aab3c",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747736482800,
+        "from": "2025-06-11T21:00:00.000Z",
+        "to": "2025-06-17T21:00:00.000Z",
+        "price": 539,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "JlelQ",
+        "stayId": "622f337a75c7d36e498aab08",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741680488,
+        "from": "2025-05-20T21:00:00.000Z",
+        "to": "2025-05-22T21:00:00.000Z",
+        "price": 895,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "rsAqR",
+        "stayId": "622f337a75c7d36e498aab19",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741700217,
+        "from": "2025-05-19T21:00:00.000Z",
+        "to": "2025-05-23T21:00:00.000Z",
+        "price": 1287,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "Spo9D",
+        "stayId": "622f337a75c7d36e498aab31",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741725056,
+        "from": "2025-05-31T21:00:00.000Z",
+        "to": "2025-06-01T21:00:00.000Z",
+        "price": 140,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "htGcX",
+        "stayId": "622f337a75c7d36e498aab10",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741742816,
+        "from": "2025-05-25T21:00:00.000Z",
+        "to": "2025-05-27T21:00:00.000Z",
+        "price": 355,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "DsHzT",
+        "stayId": "622f337a75c7d36e498aab30",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741765216,
+        "from": "2025-05-27T21:00:00.000Z",
+        "to": "2025-05-29T21:00:00.000Z",
+        "price": 3093,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "DYD3h",
+        "stayId": "622f337a75c7d36e498aab23",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741781384,
+        "from": "2025-05-19T21:00:00.000Z",
+        "to": "2025-05-20T21:00:00.000Z",
+        "price": 1194,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "DAL6K",
+        "stayId": "622f337a75c7d36e498aab1a",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741795912,
+        "from": "2025-05-12T21:00:00.000Z",
+        "to": "2025-05-20T21:00:00.000Z",
+        "price": 1935,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "8i2P3",
+        "stayId": "622f337a75c7d36e498aab0b",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741809832,
+        "from": "2025-06-23T21:00:00.000Z",
+        "to": "2025-06-26T21:00:00.000Z",
+        "price": 665,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "04OWJ",
+        "stayId": "622f337a75c7d36e498aaafb",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741825760,
+        "from": "2025-06-11T21:00:00.000Z",
+        "to": "2025-06-12T21:00:00.000Z",
+        "price": 174,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "q7GJX",
+        "stayId": "622f337a75c7d36e498aab1c",
+        "user": {
+            "_id": "ztfMS",
+            "fullname": "C C",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb",
+                "622f337a75c7d36e498aaaff",
+                "622f337a75c7d36e498aab15"
+            ]
+        },
+        "createdAt": 1747741837768,
+        "from": "2025-05-27T21:00:00.000Z",
+        "to": "2025-05-29T21:00:00.000Z",
+        "price": 595,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "YH01U",
+        "stayId": "622f337a75c7d36e498aaafa",
+        "user": {
+            "_id": "gRpMq",
+            "fullname": "D D",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb"
+            ]
+        },
+        "createdAt": 1747742280264,
+        "from": "2025-05-19T21:00:00.000Z",
+        "to": "2025-05-21T21:00:00.000Z",
+        "price": 225,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "SnYJx",
+        "stayId": "622f337a75c7d36e498aab0a",
+        "user": {
+            "_id": "gRpMq",
+            "fullname": "D D",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb"
+            ]
+        },
+        "createdAt": 1747742362713,
+        "from": "2025-05-31T21:00:00.000Z",
+        "to": "2025-06-03T21:00:00.000Z",
+        "price": 260,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    },
+    {
+        "_id": "viXAZ",
+        "stayId": "622f337a75c7d36e498aab24",
+        "user": {
+            "_id": "gRpMq",
+            "fullname": "D D",
+            "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "score": 10000,
+            "wishlist": [
+                "622f337a75c7d36e498aaafb"
+            ]
+        },
+        "createdAt": 1747742385072,
+        "from": "2025-06-17T21:00:00.000Z",
+        "to": "2025-06-20T21:00:00.000Z",
+        "price": 3086,
+        "status": "pending",
+        "guests": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "pets": 0
+        }
+    }
+]

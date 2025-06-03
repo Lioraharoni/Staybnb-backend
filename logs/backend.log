@@ -1,0 +1,636 @@
+27.5.2025, 15:03:55 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:05:11 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:22:00 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:22:47 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:23:55 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:25:19 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:25:46 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:25:54 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:26:06 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:26:17 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:26:24 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:26:52 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:26:57 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 15:27:05 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 21:55:56 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 21:57:08 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 22:12:20 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 22:12:31 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 22:12:49 - ERROR - Failed to get stays | MongoServerError: unknown top level operator: $project. If you have a field name that starts with a '$' symbol, consider using $getField or $setField.
+27.5.2025, 22:36:51 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 22:36:53 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 22:36:59 - ERROR - cannot find stays | ReferenceError: coll is not defined
+27.5.2025, 22:36:59 - ERROR - Failed to get stays | ReferenceError: coll is not defined
+27.5.2025, 22:38:38 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:00:31 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:01:29 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:02:41 - ERROR - while finding stay 622f337a75c7d36e498aaaf8 | ReferenceError: ObjectId is not defined
+27.5.2025, 23:02:41 - ERROR - Failed to get stay | ReferenceError: ObjectId is not defined
+27.5.2025, 23:05:37 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:05:47 - ERROR - while finding stay 622f337a75c7d36e498aaaf8 | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:05:47 - ERROR - Failed to get stay | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:06:37 - ERROR - while finding stay 622f337a75c7d36e498aaaf8 | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:06:37 - ERROR - Failed to get stay | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:07:20 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:07:24 - ERROR - Failed to get stay | ReferenceError: log is not defined
+27.5.2025, 23:07:36 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:07:39 - ERROR - while finding stay 622f337a75c7d36e498aaaf8 | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:07:39 - ERROR - Failed to get stay | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:08:26 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:08:28 - ERROR - while finding stay 622f337a75c7d36e498aaaf8 | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:08:28 - ERROR - Failed to get stay | TypeError: Cannot read properties of null (reading '_id')
+27.5.2025, 23:11:04 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:11:09 - ERROR - while finding stay 622f337a75c7d36e498aaaf8 | TypeError: stay._id.getTimestamp is not a function
+27.5.2025, 23:11:09 - ERROR - Failed to get stay | TypeError: stay._id.getTimestamp is not a function
+27.5.2025, 23:11:51 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:12:46 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:15:23 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:17:26 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:18:41 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:19:32 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:21:19 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:22:48 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:31:21 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:31:44 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:32:42 - ERROR - cannot update user 38xjTG | ReferenceError: Cannot access 'user' before initialization
+27.5.2025, 23:32:42 - ERROR - Failed to update user | ReferenceError: Cannot access 'user' before initialization
+27.5.2025, 23:33:48 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:36:24 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:42:45 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:45:43 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:49:02 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:51:42 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:51:52 - INFO - Server is running on: http://localhost:3030/
+27.5.2025, 23:53:39 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:03:57 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:04:16 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:11:17 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:12:17 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:12:48 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:26:05 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:29:24 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:29:32 - ERROR - cannot update order 6836fdc22d55ed1ebc010680 | ReferenceError: user2 is not defined
+28.5.2025, 15:29:32 - ERROR - Failed to update order | ReferenceError: user2 is not defined
+28.5.2025, 15:30:23 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:32:38 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:35:52 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 15:44:59 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:08:40 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:18:43 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:20:51 - ERROR - cannot update user 507f1f77bcf86cd799439023 | ReferenceError: _id is not defined
+28.5.2025, 19:20:51 - ERROR - Failed to update user | ReferenceError: _id is not defined
+28.5.2025, 19:23:24 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:23:32 - ERROR - cannot update user 507f1f77bcf86cd799439023 | ReferenceError: _id is not defined
+28.5.2025, 19:23:32 - ERROR - Failed to update user | ReferenceError: _id is not defined
+28.5.2025, 19:24:51 - ERROR - while finding user by id: 507f1f77bcf86cd799439023 | TypeError: Cannot convert undefined or null to object
+28.5.2025, 19:24:51 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object
+28.5.2025, 19:25:51 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:25:56 - ERROR - while finding user by id: 507f1f77bcf86cd799439023 | TypeError: Cannot convert undefined or null to object
+28.5.2025, 19:25:56 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object
+28.5.2025, 19:27:00 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:27:02 - ERROR - while finding user by id: 507f1f77bcf86cd799439023 | TypeError: Cannot convert undefined or null to object
+28.5.2025, 19:27:02 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object
+28.5.2025, 19:27:33 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:28:53 - ERROR - cannot update user 507f1f77bcf86cd799439023 | ReferenceError: _id is not defined
+28.5.2025, 19:28:53 - ERROR - Failed to update user | ReferenceError: _id is not defined
+28.5.2025, 19:29:13 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:40:00 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 19:55:18 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 20:03:13 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 20:03:22 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 20:04:01 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 20:04:29 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 21:00:54 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 21:04:31 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:20:55 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:22:51 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:23:47 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:26:49 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:27:08 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:28:02 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:28:11 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:34:17 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:43:02 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:43:06 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:44:01 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:44:07 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:44:22 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:46:48 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:47:44 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:48:33 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:50:13 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:52:07 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:52:08 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:52:11 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:52:13 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:55:15 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 22:56:27 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:01:20 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:05:31 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:16:02 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:16:22 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:17:29 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:17:48 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:18:04 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:18:48 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:19:18 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:21:21 - ERROR - Failed to get stay reviews | ReferenceError: client is not defined
+28.5.2025, 23:22:35 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:22:47 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:24:53 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:25:17 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:25:37 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:25:51 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:25:58 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:32:31 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:32:46 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:40:21 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:44:46 - INFO - Server is running on: http://localhost:3030/
+28.5.2025, 23:46:20 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 0:00:10 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 0:00:27 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 0:03:19 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 0:05:35 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:12:00 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:13:21 - ERROR - while finding stay 68370b6efcf9c12961a71751 | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:13:21 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:13:21 - ERROR - Failed to get stay reviews | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:15:19 - ERROR - while finding stay 68370b6efcf9c12961a71751 | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:15:19 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:15:19 - ERROR - Failed to get stay reviews | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:18:10 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:18:15 - ERROR - while finding stay 68370b6efcf9c12961a71751 | ReferenceError: _id is not defined
+29.5.2025, 11:18:15 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | ReferenceError: _id is not defined
+29.5.2025, 11:18:15 - ERROR - Failed to get stay reviews | ReferenceError: _id is not defined
+29.5.2025, 11:18:43 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:18:46 - ERROR - while finding stay 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:18:46 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:18:46 - ERROR - Failed to get stay reviews | BSONError: hex string must be 24 characters
+29.5.2025, 11:20:23 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:20:28 - ERROR - while finding stay 68370b6efcf9c12961a71751 | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:20:28 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:20:28 - ERROR - Failed to get stay reviews | TypeError: Cannot read properties of undefined (reading 'getTimestamp')
+29.5.2025, 11:22:29 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:22:37 - ERROR - while finding stay 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:22:37 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:22:37 - ERROR - Failed to get stay reviews | BSONError: hex string must be 24 characters
+29.5.2025, 11:24:28 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:24:33 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:24:33 - ERROR - Failed to get stay reviews | BSONError: hex string must be 24 characters
+29.5.2025, 11:24:33 - ERROR - while finding stay 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:25:45 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:26:03 - ERROR - while finding stay 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:26:03 - ERROR - cannot get stay reviews 68370b6efcf9c12961a71751 | BSONError: hex string must be 24 characters
+29.5.2025, 11:26:03 - ERROR - Failed to get stay reviews | BSONError: hex string must be 24 characters
+29.5.2025, 11:26:26 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:29:08 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:35:57 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:36:43 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:36:53 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:37:44 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:38:09 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:41:51 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:42:14 - ERROR - cannot update stay review 68370b6efcf9c12961a71743 undefined | TypeError: Cannot read properties of undefined (reading 'reviewId')
+29.5.2025, 11:42:14 - ERROR - Failed to update stay review | TypeError: Cannot read properties of undefined (reading 'reviewId')
+29.5.2025, 11:51:10 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:51:22 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:52:40 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:52:59 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:53:05 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:53:26 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:53:57 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 11:59:35 - ERROR - while finding stay 68370b6efcf9c12961a71749 | TypeError: Cannot read properties of null (reading '_id')
+29.5.2025, 11:59:35 - ERROR - Failed to get stay | TypeError: Cannot read properties of null (reading '_id')
+29.5.2025, 12:05:29 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 12:05:40 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 12:05:48 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 12:08:26 - ERROR - cannot remove stay review 68370b6efcf9c12961a7173f sueRfM | ReferenceError: res is not defined
+29.5.2025, 12:08:26 - ERROR - Failed to delete review | ReferenceError: res is not defined
+29.5.2025, 12:08:49 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:08:44 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:16:49 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:17:37 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:17:40 - ERROR - Failed to add review | ReferenceError: review is not defined
+29.5.2025, 14:18:29 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:24:56 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:24:59 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:26:51 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:29:38 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:32:32 - ERROR - cannot update stay review 68370b6efcf9c12961a71746 [object Object] | ReferenceError: res is not defined
+29.5.2025, 14:32:32 - ERROR - Failed to update review | ReferenceError: res is not defined
+29.5.2025, 14:33:58 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:37:17 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:41:37 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:41:41 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:42:00 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:46:10 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:48:00 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:50:56 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:58:57 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 14:59:17 - ERROR - cannot add order | ReferenceError: orderToAdd is not defined
+29.5.2025, 14:59:17 - ERROR - Failed to add order | ReferenceError: orderToAdd is not defined
+29.5.2025, 15:00:50 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 15:05:52 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 15:09:49 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 15:10:52 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 15:11:04 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 15:25:35 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 15:37:02 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 15:42:03 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 16:00:54 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 16:02:37 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 16:14:26 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 18:51:26 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 18:53:14 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 19:19:21 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 23:50:10 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 23:50:14 - DEBUG - auth.service - login with username: host
+29.5.2025, 23:50:18 - ERROR - Failed to Login Error: data and hash arguments required
+29.5.2025, 23:51:19 - DEBUG - auth.service - login with username: host
+29.5.2025, 23:51:19 - ERROR - Failed to Login Error: data and hash arguments required
+29.5.2025, 23:52:04 - DEBUG - auth.service - login with username: host
+29.5.2025, 23:52:05 - ERROR - Failed to Login Error: data and hash arguments required
+29.5.2025, 23:53:08 - DEBUG - auth.service - login with username: host
+29.5.2025, 23:53:08 - ERROR - Failed to Login Error: data and hash arguments required
+29.5.2025, 23:53:47 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 23:53:53 - DEBUG - auth.service - login with username: host
+29.5.2025, 23:53:56 - ERROR - Failed to Login Error: data and hash arguments required
+29.5.2025, 23:56:50 - INFO - Server is running on: http://localhost:3030/
+29.5.2025, 23:56:55 - DEBUG - auth.service - login with username: host
+29.5.2025, 23:56:58 - ERROR - Failed to Login Error: data and hash arguments required
+29.5.2025, 23:57:14 - DEBUG - auth.service - login with username: host
+29.5.2025, 23:57:14 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:00:30 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:00:30 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:00:56 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:00:56 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:02:30 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:02:30 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:03:24 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:03:25 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:04:28 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:04:33 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:04:36 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:07:16 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:08:10 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:08:15 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:08:18 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true}
+30.5.2025, 0:16:56 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:16:57 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true}
+30.5.2025, 0:17:10 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:17:17 - DEBUG - auth.service - login with username: host
+30.5.2025, 0:17:19 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true}
+30.5.2025, 0:17:19 - INFO - User loginToken:  | d6952ad01c2a74627b16fd8aec234257e24634e7ea6f7acfa105fd06c83985e863ac546293e8f05fc705bd79256741f7e48c58ebfcfa6af27733f487856ccfcb32d6c344e5bb976511338dd72c58c0f3c84410a602cf203f0002314ddb4de2bcd32761d005887ebc172158e860f5f441a9d2394567c330fd3350127b647555e0141c86380dd5b233d5d5e425cff68ec4dd740254281126be4580d302793f88bc5b01263d47863eada564fdacb2d6
+30.5.2025, 0:19:48 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:20:06 - DEBUG - auth.service - login with username: guest
+30.5.2025, 0:20:09 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:20:54 - DEBUG - auth.service - login with username: guest
+30.5.2025, 0:20:55 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false}
+30.5.2025, 0:20:55 - INFO - User loginToken:  | 41620dff9b1c75e033ef41d241db953d99229afc14178eb2b4457eb6be3d84a884d591e0700afd47324df46ad6f6572be4f41c8299a150970c714ad0647ba208927234da757b73e0ccf8a9b3a80615329b04d25f1f909a75d02189425ee55980a7854e29192ca3c09a83973d2e86809359c36074b59bcf92c8f4327ff3697e892fbe5e81fdf900e9afb05a9250a400bd48da67edf01878623a25da94e7a0f9d29aa15c51e061da882e57398b1b96e2bf
+30.5.2025, 0:21:17 - DEBUG - auth.service - login with username: admin
+30.5.2025, 0:21:17 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:22:05 - DEBUG - auth.service - login with username: admin
+30.5.2025, 0:22:06 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439013","username":"admin","fullname":"ADMIN","score":18,"imgUrl":"https://randomuser.me/api/portraits/men/32.jpg","isAdmin":true}
+30.5.2025, 0:22:06 - INFO - User loginToken:  | 5f6b4b39c4b94facee6fc78d344546fc7ddbe51f806be27da51af64144f632f52ab1656cf1bcec01a14290a57216ce54cb074d19532c536df8e875d2279c8560c4918c1994e0117e80fd5edab35b10f14fc73e3b28b1ef8a7f53b3e83174bdd71c4e101713348b5ff4aa520677ba69fd2d400a20d0d0be0f3e648093007d084a6d0604b59ee24b03fe8d8fb359bd96cd194bfcbda2443613c15aa84a477a5b7bb1b976b7dd788b2ee796e6bf1faa82
+30.5.2025, 0:22:27 - DEBUG - auth.service - login with username: user1
+30.5.2025, 0:22:27 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:23:11 - DEBUG - auth.service - login with username: user1
+30.5.2025, 0:23:12 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false}
+30.5.2025, 0:23:12 - INFO - User loginToken:  | 4081ac5f9a6f248bc74641d8cd3ca4e3baf2c5aad47f385c985f1b398fc06a6886174ff168f7907263f3b9e74b59939f1b37c7c0462c3d44656e5491e64db0ececc1f12421f0ec8d9be42d1d0f6517a75130b8d7b254bb02d3a7a2429d80bae7ca5a614a01063061a7564bf05517cc66ab08c7ca0adf4e0eee8585e6fe76618c6bdf3358a92a24773b3a176293a2ff688911d1454f74a8ba7a772a31f7baab962e600076c6e5677fd1d375b3db9de8e06be41f
+30.5.2025, 0:23:20 - DEBUG - auth.service - login with username: user2
+30.5.2025, 0:23:20 - ERROR - Failed to Login Invalid username or password
+30.5.2025, 0:24:52 - DEBUG - auth.service - login with username: user2
+30.5.2025, 0:24:53 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439015","username":"user2","fullname":"2 User 2","score":66,"imgUrl":"https://randomuser.me/api/portraits/men/34.jpg","isAdmin":false}
+30.5.2025, 0:24:53 - INFO - User loginToken:  | eccdd719713fbfab2463f5dc831f6153274bdeaaf54351c9c924c4fc94a30f256f62da59231c16d3ba0b663ec5af18714bff7b4b5c69c73ecb8984a31c8949d2728781768cbef2109be0a516edaccfdc595cf55ba70c6433741cf35e05840ad3c68f118cf11b2a500dde7b29019fabcdcc281407ea130460f2a74417cdb33fef9b59580234e7f7eadfde40f799578208706dfc428cf4fe6d068747d32af5b9138b6e298370b9c86445537db510381bb644e09e
+30.5.2025, 0:24:58 - DEBUG - auth.service - login with username: user3
+30.5.2025, 0:24:58 - INFO - User loginToken:  | d605aa338be964a851cb10659af9e886e2b5ebac463dc045d1f30b2c4be2d0193930c40fcfbbe8aae4bf13d21dbc3f205305447f3d9209ec91f377bd31ac8b598b9bf3a41ce4677926ff2b6efd7155d79ab0d61982c575ca60be487fcbee59f023786adcf1d40df1435fa72b7468476c48e7d89ca62ff08f37ea3caae79fae937ea138a19131c8192cae2073b18df929c7dcda197c6f46cfe16698bdfe87c88978e35cbd75a46bd5ea8900fca1f0bd9db40085
+30.5.2025, 0:24:58 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439016","username":"user3","fullname":"3 User 3","score":93,"imgUrl":"https://randomuser.me/api/portraits/men/35.jpg","isAdmin":false}
+30.5.2025, 0:25:03 - DEBUG - auth.service - login with username: user4
+30.5.2025, 0:25:04 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439017","username":"user4","fullname":"4 User 4","score":89,"imgUrl":"https://randomuser.me/api/portraits/men/36.jpg","isAdmin":false}
+30.5.2025, 0:25:04 - INFO - User loginToken:  | fcc9310ecb8eabd37b98a112a36099b2a5d2c855848c8072d2b560da8905e49726ce4e5d324409d0912e7cf799c584f24c4458f1bdf49645e0df19211954ff92102241512c2f40d928bb35fa46b2d63451f122a76e1bfdf609905616c28abe57e34e94a233ba3bff5d28a16bb07803139d94de57b88f26bacb123ede4fbbbab458ac34df9ba71e49b758bd3fc55d37eca0a0c8c418392ff665d4792c4a9c03ce295edbef32dcb1f170c4aced25319d35da6140
+30.5.2025, 0:25:09 - DEBUG - auth.service - login with username: user5
+30.5.2025, 0:25:09 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439018","username":"user5","fullname":"5 User 5","score":88,"imgUrl":"https://randomuser.me/api/portraits/men/37.jpg","isAdmin":false}
+30.5.2025, 0:25:09 - INFO - User loginToken:  | e3c070bac28ad2c71f6ad3c25b0a466714db89959b60d3daffaf57470ffa44ffd1e765bc111d82dde556d637cfe6f8bfcb15aff8c8b33042e95ac848ee65b2ca53c9bece6933316d94c1e3e80061385f4cb21c94c01042b2b2aef469720048aa94e688513b63cd5f9bcdf1e0f326a117fd292a44e5383b1824a7bc72df34f64969b764d5937bbf932e5047fa3d45c7a7fe5385dd298e1807ebb119b6393615565092f654888688193c80e2bee2422899e8bd04
+30.5.2025, 0:25:13 - DEBUG - auth.service - login with username: user6
+30.5.2025, 0:25:14 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false}
+30.5.2025, 0:25:14 - INFO - User loginToken:  | 76992123a0e0018c5e9de8c55bd17e831344f1ff7452f4334457c501934b95fb2be72fe795b0e28bfc55e5ea9aaeb424964ba1e9eca07e576889036f163b1ed2a44fc98d6d847937c0de527760f4ff8b47e9d1c2b55505c8f042fe8b7940ea9e369183425cd418b1bd3850dc74210b2fafdf767e87165d3fa721cc3db0411d28549be8b816131150916d859b29c50cacd315d60196a4d964d9c8bdfd45249fedf1175ba6c9cba950682a90148b2477c1801094
+30.5.2025, 0:25:18 - DEBUG - auth.service - login with username: user7
+30.5.2025, 0:25:18 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439020","username":"user7","fullname":"7 User 7","score":84,"imgUrl":"https://randomuser.me/api/portraits/men/39.jpg","isAdmin":false}
+30.5.2025, 0:25:18 - INFO - User loginToken:  | a20f35031a794807fb3dcf0e864c5b291e25f15b94de5f2f0ccd46bcef8c423ff914bce81cf6b3c6332339dff6a8f148049f01d429cbe2674e3c4332095e48f0e48c80b7c75b0d24afdb30d939b928a3805b60677b293a0230ead396200025fb676cb71c22d717b7244cf94d7f811a49694b6381b6a89e358d88854bd1d06470f62aebdfc0808d1276303309d3375feffc9c82f302b7241d15c9dfea6dabba6a1ab6fd4b2f1ded73954a69d67265c19a39ea26
+30.5.2025, 0:25:23 - DEBUG - auth.service - login with username: user8
+30.5.2025, 0:25:23 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439021","username":"user8","fullname":"8 User 8","score":54,"imgUrl":"https://randomuser.me/api/portraits/men/40.jpg","isAdmin":false}
+30.5.2025, 0:25:23 - INFO - User loginToken:  | 15bf9dedad1cb04b627b92d7c116d751e9668b211fc439f469c899a561247caf729d99c81e97b09f9c18036258905da37579e0252e0d9e161be3d6e6a975e5d8abf16fdd63c0b210c8cc4f37361fae655b759ac52e3314583b5b8bda8962779fbadcfb0626b2b40a46f0fbde42339336048b62a917b3ef925e5cf9826891b62c6667bc5d33c533fbf6a30fb87fce30ce456b6e25bbc8b7a8e4599a2c49e59f68fb22ede569503db61489730cefae9477a9c14f
+30.5.2025, 0:25:27 - DEBUG - auth.service - login with username: user9
+30.5.2025, 0:25:27 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439022","username":"user9","fullname":"9 User 9","score":28,"imgUrl":"https://randomuser.me/api/portraits/men/41.jpg","isAdmin":false}
+30.5.2025, 0:25:27 - INFO - User loginToken:  | c0f96e38dab7d70b3e11f4909d252a7efb1bb1b1706f374356a612ad87c6403da7be8422079097c92378cdb10f0f91fb54039ddb94e8c15d9d685464fc40cf3a766ce8f41d8a201acb5306f4f68e518b56ce5a75bd5bdb7e6f5ccc9d8202e57e040b05f9e7d28749820827663b7b567b28b4d922ca66463c4c79ba96dc22d036aebb71304030dfcfb6a6e59fda33a66603ba65ee775b5e7d6fdf526d19af186cbafc25ec9ae948612c56805cbebda7e2d84e0f
+30.5.2025, 0:25:32 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:25:33 - INFO - User loginToken:  | 3e3609419f1c889b04990e7dee18fb6d17316f6231876619fac47c0964ea777b1a22a210ced92c53da44cdb3d3d2d2ef250deb1986f1de443de374ef90ae2299d4d24b84fe14a19ee3436e44715060c39a6392ebffd2f4cd9631a8d1fb33473ad41a9c6e2ecf1ac3642d5b60c55caf30352e1461eb62432029be630bc653a139a13193da8e7ff979a77d53c3c47e965436ac6387a61c6195e760afa874dbbad27609a14761af551265ee686be304225b0bb8fdd8e58e
+30.5.2025, 0:25:33 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:35:49 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:36:12 - DEBUG - auth.service - signup with username: aaa, fullname: A A
+30.5.2025, 0:36:12 - ERROR - Failed to signup Missing required signup information
+30.5.2025, 0:37:35 - DEBUG - auth.service - signup with username: aaa, fullname: A A
+30.5.2025, 0:37:35 - ERROR - Failed to signup Missing required signup information
+30.5.2025, 0:37:39 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:37:42 - DEBUG - {"username":"aaa","paswword":"aaa","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:37:42 - ERROR - Failed to signup Missing required signup information
+30.5.2025, 0:37:42 - DEBUG - auth.service - signup with username: aaa, fullname: A A
+30.5.2025, 0:40:39 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:40:47 - DEBUG - {"username":"aaa","paswword":"aaa","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:40:47 - DEBUG - auth.service - signup with username: aaa, fullname: A A
+30.5.2025, 0:40:47 - ERROR - Failed to signup Missing required signup information
+30.5.2025, 0:41:23 - DEBUG - {"username":"aaa","password":"aaa","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:41:23 - DEBUG - auth.service - signup with username: aaa, fullname: A A
+30.5.2025, 0:41:25 - DEBUG - auth.service - login with username: aaa
+30.5.2025, 0:41:25 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$tEyHupL0aDVsZm.bh2I53uddsl3YallQjacygVqnPUuiGpzywHI2C","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100,"_id":"6838d485406510e3ac938041"}
+30.5.2025, 0:41:26 - INFO - User signup: | {"_id":"6838d485406510e3ac938041","username":"aaa","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:44:19 - DEBUG - {"username":"aaa","password":"aaa","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:44:19 - DEBUG - auth.service - signup with username: aaa, fullname: A A
+30.5.2025, 0:44:19 - ERROR - Failed to signup Username already taken
+30.5.2025, 0:45:34 - DEBUG - {"username":"aaa","password":"bbb","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:45:34 - DEBUG - auth.service - signup with username: aaa, fullname: A A
+30.5.2025, 0:45:35 - ERROR - Failed to signup Username already taken
+30.5.2025, 0:45:48 - DEBUG - auth.service - signup with username: bbb, fullname: B B
+30.5.2025, 0:45:48 - DEBUG - {"username":"bbb","password":"bbb","fullname":"B B","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:45:49 - DEBUG - auth.route - new account created: {"username":"bbb","password":"$2b$10$40o7pDBY1PcYyByNgch5N.42Bz88ChZ7zDmXNXoIEb8JK2ihO5T2i","fullname":"B B","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100,"_id":"6838d58d406510e3ac938042"}
+30.5.2025, 0:45:49 - DEBUG - auth.service - login with username: bbb
+30.5.2025, 0:45:49 - INFO - User signup: | {"_id":"6838d58d406510e3ac938042","username":"bbb","fullname":"B B","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100}
+30.5.2025, 0:53:29 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:53:30 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:53:30 - INFO - User loginToken:  | 8540ca3e9ddaa57273573ffaca6b75394c179476b8b48f33de95984d826ede6905c7504581e34b68fe8b055a76b3a909b487bcfc1a5971c12ec587c50ca94c50d2ff3723207a14fc091241cc458f31e523f4257dfc9e564ec5453d81564e64e55df624482a4c0cbde85cf18cd0202839b5c6355078f12f3a46d50ba412d16524e459c5a87e43fbf3f074d6619eb4e9a7d0ca934604e90d5122a0a913b38ee7b2672b8c88cf3854ff24628aeb619295fd2b65d67a5da3
+30.5.2025, 0:53:46 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:53:46 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:53:46 - INFO - User loginToken:  | fa705ce5f280988d0365d17a7ee22054c2e716c03cb7a3974c89a0f7cab8268286f461614e28da1fe44aedc5e5d11b2023d5ef4b1d27ef4503d097c7bf23fd0466d6da7fff2d32002366b751b53c36fc59f7b54994682e3e3ca8211253e3f921402c61a0c31437db51432fb93f3d8176e0db81e9391b7094d9f5a8aff723451ab70de8ab5e596eac6ad94ee310637b6cb6e78714a024a752b67ae08ae1789a519ace67611aebeab1ce2c66e551b30559a1d7ee94c8a9
+30.5.2025, 0:54:56 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:54:56 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:54:56 - INFO - User loginToken:  | 53c793e9f94026b624bd2ea23a63d0de7205d9bbd5cc1cf98f58e4c7f691f19a6c6b3625f584cd8d14960a5fea237412a1c1ce06f18b9bc3e31a0d5cfcb40eaadf6c6877b89cf670e71781f304fae8987321956b13a81e43090decbf3fc3ee8d293aef085961510bcd9c80f037d219eeca89047c4ad49eca06cc2143bb7cf363b594e122ea788c02037387c6b92cb74f90da486aab0cd6b6c3831970f93adf73ee12d79dc482d09e4bcd79d35ce23daa145b0fbeb9d6
+30.5.2025, 0:55:26 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:55:33 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:55:35 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:55:35 - INFO - User loginToken:  | 63544c6d4165aba50a5e2ad91a1fd40879d6df41a94f45e8b1b41c1976c511f084d4c2a04221fb8169820b4758e148ffee840078de6bae5100904fe9697d82586d03ffafd9153d1f5154b5de81a6aeae0081f3363c22aa4562246f057cdfb8ff0e20add80ea71cf3ee12e30fa18524b85e4d89ecb536d80dd74db4d95b57680bc3c2959b5d80315b1f3799fb608f2af44329482fce107f52278174193f7d81a862ddaf8888208a7363b059003e45bbbf33a48c764723
+30.5.2025, 0:56:19 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:56:20 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:56:20 - INFO - User loginToken:  | 6ac740ddb6204202286625dfa1a61694cf17438ad94ea769024e9818d035e858d42feaa14808f69d9ae2f6588c15493cbdabe98e2b88484256a62af878b03b9b75a8fdad5f9e23a26b0d0629e715599d3e9648426ac59b0812346e5c693ea259cccde9a609d381abc28a63270ffa0cd63e6d876a2f931d3ea880f826e688fc3c871a43bea0dd40cd8977d43e84637bd11cd23aac3ddb7ea26a46dfdc91f14bd43de70d31ea7aee0c095cbce168de6b0083efc3ab1741
+30.5.2025, 0:57:07 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:57:21 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:57:23 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:57:23 - INFO - User loginToken:  | 9b1975d77176c34c5ded16b9b255ee3c3c01d36a225bd731c07efea92c53f82067fb5864181e9c930bcc50259d0c6ce82f9991e217d6b039910313bbe15d4cc73989763ae68c3c4998c51bbdaf63bfab809c9f90a5e45a65e218225b16a4d808c25f821c1c9f8708e3743b823d44121c39a2469190445ecb34b7048db987e70c3012afa29bd07ed639ed7e0abbd978b0b059913ef64aec769b47061ae73fb2d6f0a158a12fac7f1edf25c3e564436388dd975624ef9b
+30.5.2025, 0:59:22 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:59:22 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:59:22 - INFO - User loginToken:  | 6a9a4e901ebce1e503226dcfc4bda9dfc55d166cb0f1caf0a3b8ae243636180093d6f9415222bf5cf6ac5f78841ab3658a7045a4ff263a54bb8b50fbcdf8d44376a9458ea6e0e29c48793af71a0b171170e7895fe47d23a18caed804cc4eb9d67d6ba94ffe8cad564dd4f8a91213ca24575d68271da16fb196ddc92b80946db6929f82a39fbd1d4400e9be169efaa9ec92f3e722acdc5a6ac672b28dd45cab9509102d526746a9c1c9dd03bc57b57db9506f021c56d9
+30.5.2025, 0:59:35 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 0:59:41 - DEBUG - auth.service - login with username: user10
+30.5.2025, 0:59:43 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 0:59:43 - INFO - User loginToken:  | a36a50a2c742151f2936249a40bd46a6a240498e4294f48e0ad92c0d9d2cbe6e9404f28e09afcb832780cf16d76923ed654d3658bb1c73279a4a07879b7e233c7a8ff1622893e5a0ac8909ef3d6c9ed8f77f2f56d446eefddc5e590f8147cebf5f0d9fd416aa272b2701d47329eea236ceeaae3118b5c60f743cda772fbb9b6b58b91674b78905541f15241952fc9e2258fab0f57506e708db1727e785f6ebb2f2a8738117010b1d92af515de227ed29011faa43929c
+30.5.2025, 1:00:17 - INFO - Server is running on: http://localhost:3030/
+30.5.2025, 1:00:22 - DEBUG - auth.service - login with username: user10
+30.5.2025, 1:00:24 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 1:00:24 - INFO - User loginToken:  | f17e4cd225652b1a6eaf2568d6f2a511ea20afac2e2c5bba1f7c4053be1d4457eaa66fce96c190913a25368f1ca8d7db64bd5f6a65688f02d84303fa49b1d5b07dd1cd2e7dc59ddfcfea19521daba6c717c434e39297b82c2ee37c6aa85b5fb47b345bc2f56932d0c711b1e987a52b7e432f2e44605dfee8295da146d899ac6f3b964142c4b4a76c1f3883eee72af824c613f74226dd3cfa21e0ab9d523e050a8f7a33fa7de332469e769b5fc938fc308a63d7175f9d
+30.5.2025, 1:02:01 - DEBUG - auth.service - login with username: user10
+30.5.2025, 1:02:01 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+30.5.2025, 1:02:01 - INFO - User loginToken:  | 327b142d59f4f7b693c600668cc6a95673de0efe43a7bb14ed7d01b56594d311b03c21533392b7392a2c7ef84f15b3677d40403d4aacda6bc87f2d57989d5d67b3165be6277044cf3291e7c0c761330fba49ca88462c6bd51290a2e34d7085148257e0e3fcddfafeb4d8ba091e0edc6de5d8306d057c7decbd72cf7817956008b5ab4254204c0eee1d710dda18aee7837800651733df6a2f55ffc6e9bb9eaa3a34caa99a5b1ca50f38017eabada7a96f0000798fa959
+2.6.2025, 22:20:49 - INFO - Server is running on: http://localhost:3030/
+2.6.2025, 22:31:27 - DEBUG - auth.service - login with username: user10
+2.6.2025, 22:31:32 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+2.6.2025, 22:31:32 - INFO - User loginToken:  | 29d2274f23f4fc5661b5a8fc2d0613a4904e3ce1e37481670c848a9e74ae5fe1bd1a0f47ee1e4901164f63a52cd03099444140d229883d6dbae8e9e03eed6bf2f02458cad4d1e2a1a303a1b08536e7e99098ab9942536191ceabd3f66216d5c1a58d3b7c05627a85aa42af3b6dca77a50a57b03e49b000c5a3c86add5898829f9d583a9a8b5953531fe9efef84783e1551b93c4036e64b5fda3d807fb913c90f9bdb16ce9ec0938aa1cc5b060ab66035d10f42953790
+2.6.2025, 22:31:40 - DEBUG - auth.service - login with username: user5
+2.6.2025, 22:31:40 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439018","username":"user5","fullname":"5 User 5","score":88,"imgUrl":"https://randomuser.me/api/portraits/men/37.jpg","isAdmin":false}
+2.6.2025, 22:31:40 - INFO - User loginToken:  | fdb8af22c141b80a23948f9e5da99905aa9ee7485607a1af2c6863e3f01af451bb31ba3c236f4d113bfccf8068625f5711db99cd64a6a824dde93bdbdb9f44597b7e8722c6781aff6e19035dce9acc3095e815dd62c68ed5e80a087c15e36d8becf708322c4e630c5f1dc407ef5935663063596995f2e99fca1532ed3a206710cb95a9865b5b654a24d8868b57ca11658a16be722158b200f04c5a8d84be5b258c518607d9c3043def2757e82ba520908665b2
+2.6.2025, 22:31:47 - DEBUG - auth.service - login with username: user10
+2.6.2025, 22:31:48 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+2.6.2025, 22:31:48 - INFO - User loginToken:  | b8aef3ce2639ed259c87cc92b1f9aa734b757834a0a0cbeffbc7e2975056480a94a0ee694e2216f50dc6443f0a838637092f225459a362928929dc6847fdd476dc8908ba1aa6c98fa2d595c384ad9c1742b6fa87fcfff4827acebf9ad9c63cea203be0e716c442a5bfddf2914b5326f4148748cc98e6bcd198e26c0115d9ff02f820cc56941f5461360d224ebf4dc050f4f3f6671bd7877efcb1e54e8a738c97b6e864189b4513dc479f17eb1bc63eff966025acb56b
+2.6.2025, 22:32:19 - DEBUG - {"username":"ccc","password":"ccc","fullname":"C C","imgUrl":"https://randomuser.me/api/portraits/men/98.jpg","isAdmin":false,"score":100}
+2.6.2025, 22:32:19 - DEBUG - auth.service - signup with username: ccc, fullname: C C
+2.6.2025, 22:32:20 - DEBUG - auth.route - new account created: {"username":"ccc","password":"$2b$10$xS.VwTBcb7IYwNiM2E2bFeUBhi29VGCIP1Ciugx/37e5dQz.e5Ndi","fullname":"C C","imgUrl":"https://randomuser.me/api/portraits/men/98.jpg","isAdmin":false,"score":100,"_id":"683dfc44c8c181ce8f27b75b"}
+2.6.2025, 22:32:20 - DEBUG - auth.service - login with username: ccc
+2.6.2025, 22:32:20 - INFO - User signup: | {"_id":"683dfc44c8c181ce8f27b75b","username":"ccc","fullname":"C C","imgUrl":"https://randomuser.me/api/portraits/men/98.jpg","isAdmin":false,"score":100}
+2.6.2025, 22:34:33 - INFO - Server is running on: http://localhost:3030/
+2.6.2025, 22:34:40 - DEBUG - auth.service - login with username: user10
+2.6.2025, 22:34:42 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+2.6.2025, 22:34:42 - INFO - User loginToken:  | 8396b6d4c1a020aea65156f765945e7f33b5a40fb98605d3cd0fc1dbb8478a88517ed9e59481dfe45ae53fbb56c5134ea556a058389655b6e1867e0bde0c90993fd003a632511bc1666201138578e3d98264c034dec4ac8873a36718bdfe843d831fb41505371b7f57fdc2b1ab099f7cdc628fdb9ec30ea482ff041a36d5adcac370d5dad4d53e9fd2c85b4a031fadd2501a76a0b96df34b06f6cdfa4ec72c233b2e0dbf4d4164b99bdcbc3776a0c17d20ea188ab8ef
+2.6.2025, 22:35:59 - DEBUG - auth.service - login with username: user10
+2.6.2025, 22:35:59 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439023","username":"user10","fullname":"Ten User 10","score":50,"imgUrl":"https://randomuser.me/api/portraits/men/42.jpg","isAdmin":false}
+2.6.2025, 22:35:59 - INFO - User loginToken:  | 2646999e543bbdac8fb48429714b50ebec662f26c6e1115460f12adcc5dfd0845112f03a70448457eeeb8ca22df1b46cb76a86e7e40005aec784a7f43ce5133a245ce20bb6c5c027f8168722c8685fe9702a57f7526d712bbbac55e34aea591a12a6a13e4fa60335622d629982f15292e321305cb6c75acb22ca43de94b81b3a2ce3566a060b00376cf307a8d3203446b9194d2a49abef51218388f8c34243775ee318636e319361941c61e2460d106607ea3612d873
+2.6.2025, 22:36:29 - DEBUG - auth.service - login with username: user5
+2.6.2025, 22:36:29 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439018","username":"user5","fullname":"5 User 5","score":88,"imgUrl":"https://randomuser.me/api/portraits/men/37.jpg","isAdmin":false}
+2.6.2025, 22:36:29 - INFO - User loginToken:  | 5fc50b90e17ba9dd075b5439f4491494d7c44765d26de79c0b5af0d3a10c6bcd9ec613154278db7091ce3409fa2efeb3be300f7fc35ce35bc3c2c3ef17aefaa23d69250a8bcfdc508f1f9ce6f0f3c66a736ff08e6a089d5be7ff94aa512af0548780d0049273c644aeae1c66d1fe9fc72e44a888f8bd33da47370da36b8da508d1e992a89dab9d705df4e942cfef70390b6f963de1ffd5900004cecdeccdd911634479ae1cf4ef464f57b91cc1ea7fa659a321
+2.6.2025, 22:37:44 - DEBUG - auth.service - login with username: user4
+2.6.2025, 22:37:45 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439017","username":"user4","fullname":"4 User 4","score":89,"imgUrl":"https://randomuser.me/api/portraits/men/36.jpg","isAdmin":false}
+2.6.2025, 22:37:45 - INFO - User loginToken:  | df01d79d6cc00c832680ee5c3e67f58fa7cba329b0210084da4a664e5306ca970ba47ac58050354854c529d2a7571bdf54722ca7ccd791c1f50ed7fe1ea318fad695ac7ce06909a8c67b1f62d184cf324f6e89f0bae31883a75b31f6e2d7cdcf09e4978860e1052f731ee418de9606f28e7cf7cd3a1c382c431bbcec492ce28e7210b4d83b69b87c69bdf3563e0ea8f000c255e08f671f738e9b2970c99a295478138f13573ee5b58aaf1b997bac21aa5bd275
+2.6.2025, 22:38:21 - DEBUG - auth.service - login with username: user4
+2.6.2025, 22:38:21 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439017","username":"user4","fullname":"4 User 4","score":89,"imgUrl":"https://randomuser.me/api/portraits/men/36.jpg","isAdmin":false}
+2.6.2025, 22:38:21 - INFO - User loginToken:  | 3dbe37c5f1855c28823e9ba67e7b552f9714bdc28306439d52dd2829b8a88f21fd4050f77e1088e808bdee835a77a3353f51e76d001cf71bbbfd02e86e2e1b4c9fd21da4ffab32b1eef0f5281087a590431eecc73e8631c19a2560b3d8310d25932581587e00cf507beaddd82bd07588d7b606aa1dfd6c840ee0e92fe027296db6b4cf0de195e63c386f47531769e2c5623891ca921aeb81f62e82a8c5d4b8d3642c26bb759d3d23213691b95daaee79748c02
+2.6.2025, 22:38:56 - DEBUG - auth.service - login with username: user4
+2.6.2025, 22:38:57 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439017","username":"user4","fullname":"4 User 4","score":89,"imgUrl":"https://randomuser.me/api/portraits/men/36.jpg","isAdmin":false}
+2.6.2025, 22:38:57 - INFO - User loginToken:  | f0954771d1bffbf5329b5255093b4458320b94f8a0171b16c743077df6ace966240fd8c55eae12bd3df129aece83ae5db7c83f2b7b6def87c45432cd77f81c749c71c5085eb0694a1e72acf444857e2cfb083b3699838da80eac8cf3518e1f38bcf7c1e26136fece4db50ee03f99d42ce166d873cc8da2d973dbdea2ea8127f32c494385f15745bc5a2aa2fef4c2f50a6b64ff5d90a969c8d5a77583935aeb154bd9393b66649cf260eccac0a8a4cdfd2c89b2
+2.6.2025, 22:43:10 - DEBUG - auth.service - login with username: user4
+2.6.2025, 22:43:11 - INFO - User loginToken:  | 2f1e4ead92b2a2f00da393d4e1210e9e686e6235f41b553b9b36a35b2a18af98254203e8f43ecd4563b80109a2cbecd59e432657995878e37ac913ba04485c4e662f074aebfb11df652da73706c953649f74a0484c3bad0ff31a9fbf922feb3cfbbca5d253afcfd803945e9c701c3bc7578062c6bfcd9c0c30dd74519f91b3511743b9092e0702e2d6b92fdba753a8481ea813ddaa15297fa8733e9e787dcbb10dd8cd9f7b1e2735dd2ce9302189a82bc53c90
+2.6.2025, 22:43:11 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439017","username":"user4","fullname":"4 User 4","score":89,"imgUrl":"https://randomuser.me/api/portraits/men/36.jpg","isAdmin":false}
+2.6.2025, 22:44:16 - DEBUG - {"username":"ccc","password":"ccc","fullname":"C C","imgUrl":"https://randomuser.me/api/portraits/men/98.jpg","isAdmin":false,"score":100}
+2.6.2025, 22:44:16 - DEBUG - auth.service - signup with username: ccc, fullname: C C
+2.6.2025, 22:44:16 - DEBUG - auth.service - login with username: ccc
+2.6.2025, 22:44:16 - DEBUG - auth.route - new account created: {"username":"ccc","password":"$2b$10$DvO8ZWUN45qW5rIEfyZNjOYIui9zzOnBXuCL6iR9GwG1fOgETD9Q.","fullname":"C C","imgUrl":"https://randomuser.me/api/portraits/men/98.jpg","isAdmin":false,"score":100,"_id":"683dff102786a6039bf21319"}
+2.6.2025, 22:44:16 - INFO - User signup: | {"_id":"683dff102786a6039bf21319","username":"ccc","fullname":"C C","imgUrl":"https://randomuser.me/api/portraits/men/98.jpg","isAdmin":false,"score":100}
+2.6.2025, 22:50:18 - DEBUG - auth.service - login with username: user4
+2.6.2025, 22:50:19 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439017","username":"user4","fullname":"4 User 4","score":89,"imgUrl":"https://randomuser.me/api/portraits/men/36.jpg","isAdmin":false}
+2.6.2025, 22:50:19 - INFO - User loginToken:  | c3f30bb5e9914760c75294ed01ef3f750fb46b7b30b7b4bf1782e0b7b78105ea17f87479aa6137be0411e3eead60edb78fc908b68ecf88a33567a94a24d19777ab8eb06cc81ef7a2467b2229c04dcf843f5367b99bb591035bd6392f9223117b830107d73358a1528347a1695d237784333cdc78e8160a04f3d8ccd6265f1fd0f99c7a301e1268965e6b314c77785f5f00ffc82b144ed303c14dc4b2e4a86e87e8f273d12598acd6229160d61628dd1fad5e80
+2.6.2025, 23:29:35 - DEBUG - auth.service - login with username: user1
+2.6.2025, 23:29:36 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false}
+2.6.2025, 23:29:36 - INFO - User loginToken:  | 75ce446549969d5a6cc3f5e63101171a62bd42d20edbfa540ca83b2de5924394e3cd9bd830f44690cc316f552ed6e605fc55a130f2f52c5494053c96af396146dd64e3a51a6546522ce85e66ea69a3ec29d6b627b86d1102ac6b70a40ccc6db5437dd9b6c24042f424e656df9ed3b42dc56e896d452fc307e29478603259fb0446f3b6499c0e2e1c7e28840f6f11ee5cabcb90864845afca54371df4dea3d5af9665b8de12f026adc144479ffcadfe275c24d4
+2.6.2025, 23:29:53 - INFO - Server is running on: http://localhost:3030/
+2.6.2025, 23:29:59 - DEBUG - auth.service - login with username: user1
+2.6.2025, 23:30:02 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false}
+2.6.2025, 23:30:02 - INFO - User loginToken:  | 0f8d8cd6538c82fe19b95dcdba1802989416a61d87764ed5a1fa994ccd3463541a92c0b08eba38e020ff92d868fbf3b1aec00adbd4dc178e1f54911eba3e8858b23ae132848ae27da183e01439e8d9c866dd3df80ae6b161078dc2453a5ddeba0cccecacd73df7ddd54e9f800f45e78c6fafcfd92714512b0dcd60f197fca3a4f5e9d181b362cd478cb94fa4657494d454ae3b189768f5cc6a7fb67f3bc7ab3195576e65d84a8f68face78a62bca61423918e5
+2.6.2025, 23:34:01 - INFO - Server is running on: http://localhost:3030/
+2.6.2025, 23:36:22 - INFO - Server is running on: http://localhost:3030/
+2.6.2025, 23:43:38 - DEBUG - auth.service - login with username: guest
+2.6.2025, 23:43:39 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false}
+2.6.2025, 23:43:39 - INFO - User loginToken:  | 6148087ea367952406eff386b81491fbf3ab4b54aaf5c21744804c0ddeddd8e559762508a07339bf5b9cafeb5a1aa7198922c0c70fa1126f64be794b0dac6e6d7418cc63c5805a7020ae76fd5c979bf2e7151dc955de0a06e5ecdc5a6de458f524b7fb377e1bcb21a97b8453e9968d378d82e4e504ebf10cca24061fc7bf0a894728eb58ce2c61e552afb01d81e9dfcebdb53b8949bade5fc24199ec1ca78ddce36ca83d49103cbd0b826c2ebd19746a
+3.6.2025, 1:09:20 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:09:20 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:09:30 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:09:30 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:09:52 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:09:52 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:10:25 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:10:25 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:10:37 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:10:43 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:10:43 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:11:50 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:11:50 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:12:40 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters
+3.6.2025, 1:12:40 - ERROR - Failed to get order | BSONError: hex string must be 24 characters
+3.6.2025, 1:13:15 - DEBUG - auth.service - login with username: guest
+3.6.2025, 1:13:16 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":120,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false}
+3.6.2025, 1:13:16 - INFO - User loginToken:  | 65be6259ba5355b3f239ebba280e86e57554b35736adc3e3ef78f5c044db9952953162a5bd90c5614802626ca7d9b02054dc6a16cf800408fdb3ac163d1f335b679ec27cc3199c98b584ae6c8a6c670e3b5004ebd821f3872b480e0948577f1c3c78097f878553d9b8b21031a40d4a677f8e0b3ffd81b0ff72e54b24814b8199827a5a2f62868ea2ab2d063f7270c658c594fa92a96dcb6c23fda44f311c567e7ee1b7457cb4f0f7a8776e48896e6a80de
+3.6.2025, 1:13:26 - ERROR - while finding order by id: 66c31ed4edaa9ac44f75e563 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:13:26 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:14:13 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:14:13 - ERROR - while finding order by id: 66c9b654f881fa56a78b5846 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:14:36 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:14:43 - ERROR - while finding order by id: 66c9b654f881fa56a78b5846 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:14:43 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:18:18 - ERROR - while finding order by id: 66c9b654f881fa56a78b5846 | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:18:18 - ERROR - Failed to get order | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:18:25 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:31:33 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:31:40 - DEBUG - auth.service - login with username: guest | 507f1f77bcf86cd799439011
+3.6.2025, 1:31:42 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":120,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false} | 507f1f77bcf86cd799439011
+3.6.2025, 1:31:42 - INFO - User loginToken:  | e186534161d96c0d88f5de3e0dfd67717b18c9f2761fe0bb89456a2d9f993f4c11de794b766f4bc06ebb13e034f6d70826d3383f02b1f4d1fe8eab5134cc32dc14b6b54199d3f1e9de66504308abf4c03445f5bf893a7dd9d395f2e19c1ef5424b9773c5b2cd3a252698bd4b62e2cc3bb887b839e173d8865f8cdf9d5d93df94dfb8e348c96cd30164a97a52f666e8c7b7e228cc718fc59374abfc928f1c851376feae6016177610464dc7f75c2992d2d0 | 507f1f77bcf86cd799439011
+3.6.2025, 1:32:22 - ERROR - Failed to get orders | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:32:32 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:32:40 - ERROR - Failed to get orders | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:32:44 - ERROR - Failed to get orders | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:34:53 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:34:56 - ERROR - Failed to get orders | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:36:29 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:36:33 - ERROR - Failed to get orders | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439011
+3.6.2025, 1:37:23 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:37:25 - ERROR - Failed to get orders | TypeError: Assignment to constant variable. | 507f1f77bcf86cd799439011
+3.6.2025, 1:37:44 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:40:33 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:40:55 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:41:19 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:42:29 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:43:47 - DEBUG - auth.service - login with username: host | 507f1f77bcf86cd799439011
+3.6.2025, 1:43:47 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true} | 507f1f77bcf86cd799439011
+3.6.2025, 1:43:47 - INFO - User loginToken:  | 72f9c6aca343713bce18ee71d073d91e80a894bc5dfc007fba7ce3af98763ca3b6726d25f9e0d76aa12de46e17424ba3c430d346b56e961add8d8fefa088ce3174c0b1ce19ed911ed36b6546913deea67d5a4693c506c28b346bd90f73706fddb839b55a056d5a259eb8a4804601cc06de597156339300f653afa5526af61b19b9b4b0da550ca6889fa0a9a37c204ca3f61f2c4fdcdf94c0a6e86d3835efea62c4e857cb5b48d11efb82a96449a0 | 507f1f77bcf86cd799439011
+3.6.2025, 1:44:25 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 1:44:47 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:07:05 - DEBUG - auth.service - login with username: user1 | 507f1f77bcf86cd799439012
+3.6.2025, 12:07:06 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false} | 507f1f77bcf86cd799439012
+3.6.2025, 12:07:06 - INFO - User loginToken:  | 3c1fefef70b8b120ea76ce9a2558663e80ef97440304a11486f8feaa86ffc70150984d3ab88fd523495dde28927f0f5a7560f8ccc0f166ae40b2da7cbbfe40594ebcc5358e057376b08e86c13b2a99c38d5ea6c5abcaff995d226cd564b44bf09ab5e40cd3d8e3f80573b3e43d10a83f6150b15e92b27601a12b557df74b73075a80e7dc8078d5b842b5bf82d49d52b67f2fe7ab74cef25bf152b28234ac48ee986565f249a3ecc3b2c26eb02d7f4f656ae150 | 507f1f77bcf86cd799439012
+3.6.2025, 12:08:07 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:08:14 - DEBUG - auth.service - login with username: user1 | 507f1f77bcf86cd799439014
+3.6.2025, 12:08:17 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false} | 507f1f77bcf86cd799439014
+3.6.2025, 12:08:17 - INFO - User loginToken:  | 46715ab6d01c40c9dd672c68204a193d389668e4ec9d5dbbef6e7d946a0883a8287cc15d9d2d42266db435f641a1dfa3ef2bf8716fc91ed79a109f6e556b47dc166fb49f79adeb276364ca46f526da3ff5aa00d4399b44fb3d94c4c98a94f810231e7b734a153acb406fdebb67a9596409f3652cf945c393af344f54df45dc4b6cf1ccda3221839cafd63c757bd1c4eaea52de8bdc06508aebef30233f53b13b6eb9bbe33d17b8c173c6e590efa200c05da4da | 507f1f77bcf86cd799439014
+3.6.2025, 12:09:19 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:09:26 - DEBUG - auth.service - login with username: user1 | 507f1f77bcf86cd799439014
+3.6.2025, 12:09:29 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false} | 507f1f77bcf86cd799439014
+3.6.2025, 12:09:29 - INFO - User loginToken:  | b73685e2cd27df3383c21d3d57bf0d3fec0b810a19c80f46cbe3feba7f3c3f4cb4278e3beae73d5dc165e1e2991e8e24c1e836296eb507469fa1a70b1964bc554b71e6577a1a391f446cbdbd2373dfd9457170105f64161658bc62e0581bd32896bee18e99d6e621d93e0d2a23fd8de1d8c947becfbd4cd765abc042badab7cf43616e4ec9827334437d262ab963acc8398d353702d8feee92918b33df742f3a7d69258f4539513b186e656406bf2c89010ab0 | 507f1f77bcf86cd799439014
+3.6.2025, 12:36:56 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:39:21 - ERROR - while finding stay categories=Historical homes | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:39:21 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:39:28 - ERROR - while finding stay categories='Historical homes' | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:39:28 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:40:29 - ERROR - while finding stay categories=Historical homes | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:40:29 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:41:07 - ERROR - while finding stay categories=Trending | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:41:07 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:41:21 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:41:25 - ERROR - while finding stay categories=Trending | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:41:25 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:42:00 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:42:04 - ERROR - while finding stay categories=Trending | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:42:04 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:42:45 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:42:48 - ERROR - while finding stay categories=Trending | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:42:48 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:44:31 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:44:41 - ERROR - while finding stay categories=Trending | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:44:41 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+3.6.2025, 12:46:26 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:47:17 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:47:43 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:49:06 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:49:28 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:51:31 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 12:53:52 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:00:45 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:02:07 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:02:45 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:04:19 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:06:36 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:08:04 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:09:01 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:17:01 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:18:21 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:19:44 - DEBUG - auth.service - login with username: guest | 507f1f77bcf86cd799439014
+3.6.2025, 13:19:47 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":120,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a7173f","68370b6efcf9c12961a71768","68370b6efcf9c12961a71780"]} | 507f1f77bcf86cd799439014
+3.6.2025, 13:19:47 - INFO - User loginToken:  | acf293c04bc7870f3654e909c4876d1c3f5cb3924e1cdc51f27c53b6038408cdabdbd9c82530ef7aecef1f0c513282bbfdf2a50b0c43967f5187d1289b377f0ddc779273d9e9540b80a993d68189db3921c3ca292a7a7615d56800da6907117ea46fccf6399b5c307c08de98f515c36e04401b7fd04866b97f0de69ac7512d2944cf97a1c4cc30dede05ac011370b99228f0bec4e983bf36377b104065e8c7c5d5136e71f4352fb1d7be849c8f962482c3 | 507f1f77bcf86cd799439014
+3.6.2025, 13:21:56 - ERROR - cannot find stays | ReferenceError: asyncLocalStorage is not defined | 507f1f77bcf86cd799439011
+3.6.2025, 13:21:56 - ERROR - Failed to get stays | ReferenceError: asyncLocalStorage is not defined | 507f1f77bcf86cd799439011
+3.6.2025, 13:25:11 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:25:16 - DEBUG - auth.service - login with username: guest | 507f1f77bcf86cd799439011
+3.6.2025, 13:25:21 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":120,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a7173f","68370b6efcf9c12961a71768","68370b6efcf9c12961a71780"]} | 507f1f77bcf86cd799439011
+3.6.2025, 13:25:21 - INFO - User loginToken:  | c5b10b99fdc5a01816b88fc3a93731ea890d3c1b4fd651ccba6a8454d08d5e2fa36c0ddfdd8f2e92b23e15029432a1ba0c838e9172f176682ef127a4f4355562834e17c47cd7f502810934430a4596d560de92c2f5bfc76b5ce8fcee457a41d039ba3e70d7dc410c9a07d978d4e2d0b2ceeaa59e68c9d4bdb8aba7ba2219802a565e89490a6c990a6d6bdcea6a5fa08cb4b03b00415295ac308293fb64048adead8cc79c6bb1de800dc0fa24001be13d96 | 507f1f77bcf86cd799439011
+3.6.2025, 13:25:23 - ERROR - cannot find stays | ReferenceError: asyncLocalStorage is not defined | 507f1f77bcf86cd799439011
+3.6.2025, 13:25:23 - ERROR - Failed to get stays | ReferenceError: asyncLocalStorage is not defined | 507f1f77bcf86cd799439011
+3.6.2025, 13:26:09 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:26:13 - ERROR - cannot find stays | MongoServerError: $in needs an array | 507f1f77bcf86cd799439011
+3.6.2025, 13:26:13 - ERROR - Failed to get stays | MongoServerError: $in needs an array | 507f1f77bcf86cd799439011
+3.6.2025, 13:26:59 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:31:12 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:33:30 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:39:18 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:44:25 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:45:02 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:45:28 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 13:54:27 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 14:44:15 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 14:45:33 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 14:46:27 - DEBUG - auth.service - login with username: guest | 507f1f77bcf86cd799439011
+3.6.2025, 14:46:28 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":120,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a7173f","68370b6efcf9c12961a71768","68370b6efcf9c12961a71780"]} | 507f1f77bcf86cd799439011
+3.6.2025, 14:46:28 - INFO - User loginToken:  | f30e09f6311604ef29e9578074ea044c5f3f55f175fb620b805eb8b898f8472ebe545187735c70e5cdba24b3ec8bbb3077e4dd17c44ca885a9883530e4b078c29f3a66882740004f9dc9323a9b32c4e7ba0865dc02dde5c924109d8bf1c6ba61c8a5db6af024ef267cb3ebfb471f03c566e88bdbb9c6d19a8d6c02af096dfe183ab5f7ab84d0171927de505b6cd5ae02f1d215d189754ec614b1de44561c1a3232e00fdc7d7d69aeaaf9774b063415ea42 | 507f1f77bcf86cd799439011
+3.6.2025, 14:46:44 - WARN - GUESTattempted to perform admin action | 507f1f77bcf86cd799439011
+3.6.2025, 14:47:29 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 14:47:41 - ERROR - cannot remove order 66c31ed4edaa9ac44f75e563 | Not your order | 507f1f77bcf86cd799439011
+3.6.2025, 14:47:41 - ERROR - Failed to delete order | Not your order | 507f1f77bcf86cd799439011
+3.6.2025, 14:48:02 - DEBUG - auth.service - login with username: user9 | 507f1f77bcf86cd799439011
+3.6.2025, 14:48:02 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439022","username":"user9","fullname":"9 User 9","score":28,"imgUrl":"https://randomuser.me/api/portraits/men/41.jpg","isAdmin":false,"wishlist":[]} | 507f1f77bcf86cd799439011
+3.6.2025, 14:48:02 - INFO - User loginToken:  | c2bc7c4f9761bd85df4ab020efd97dc987fa9ffd8ff98ec0e256a41b6a448707afbdf98665488f2fae2a97902892c142af300865b256c566d2af635cb1c60afd3df436cf01edeff1ea3812771427bdbf79ec829ac6dc3ef979edfe501202d826a9da2862db05242a7f2583f7c1d7dc97b2271452da69476e74fe38d5379b6123bea8c715eeaebd4cb339ce554cf543aeb6c233744c41d9baecc85e6008af9a648cf07c24e024b012b2c45a3bb08f5d0929ad94 | 507f1f77bcf86cd799439011
+3.6.2025, 14:54:37 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 14:56:09 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:02:11 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:02:57 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:03:35 - DEBUG - auth.service - login with username: user9 | 507f1f77bcf86cd799439022
+3.6.2025, 15:03:38 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439022","username":"user9","fullname":"9 User 9","score":28,"imgUrl":"https://randomuser.me/api/portraits/men/41.jpg","isAdmin":false,"wishlist":[]} | 507f1f77bcf86cd799439022
+3.6.2025, 15:03:38 - INFO - User loginToken:  | 98fd6eb246977fc423ebf4cb1c6517c01881c901b20de939577a7e639055a64a2d6ae370654d0e10914777ed5e4d0796e7a63c41589088efaea075a464f521c76ee8399b34c9f04ed5cef08f3ebcabda8b61c0b38d377ba3b72e0a47af317ba9b22c321a6be5b1c3f78f3f3c7b243b0424671433517862b95337da3f90ddddd0b4d792b02ac931248bf7d42939076ac99bc9e0f9987f5adccc66bae482dae2d13195dccde09df48e663321fffd23ece275e663 | 507f1f77bcf86cd799439022
+3.6.2025, 15:11:44 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:13:02 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:13:47 - ERROR - cannot remove stay review 68370b6efcf9c12961a7173f LUNqkv | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439022
+3.6.2025, 15:13:47 - ERROR - Failed to delete review | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439022
+3.6.2025, 15:14:13 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:14:18 - ERROR - cannot remove stay review 68370b6efcf9c12961a7173f LUNqkv | Not your review | 507f1f77bcf86cd799439022
+3.6.2025, 15:14:18 - ERROR - Failed to delete review | Not your review | 507f1f77bcf86cd799439022
+3.6.2025, 15:14:51 - DEBUG - auth.service - login with username: user7 | 507f1f77bcf86cd799439022
+3.6.2025, 15:14:51 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439020","username":"user7","fullname":"7 User 7","score":84,"imgUrl":"https://randomuser.me/api/portraits/men/39.jpg","isAdmin":false,"wishlist":[]} | 507f1f77bcf86cd799439022
+3.6.2025, 15:14:51 - INFO - User loginToken:  | 24936728906f20d7549d7b47c0aae1d0f7cd493d614d0b62dda6818cff234451435f8c7aecab2e49b73854172379274450baa9eafb2f54b3ad5c6e9b0c347f4f53e1b6e3b47a0f7bc100d39b3c3616cd98b0e09e1f2d34a534bcec3651c21ac78e4598658167432f4b721bfa5625f43bc254c80772be7ccb50a34651057e28eea46e5f4e4dede6913f16130c4e44d74915d99503a3ec15a3af9950d3e88a1ef84ff253a2eaeaf4ee04f0f4812ed3ff42974d57 | 507f1f77bcf86cd799439022
+3.6.2025, 15:20:13 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:20:41 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:21:10 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:21:19 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:22:22 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:22:51 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:23:46 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:24:20 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:24:39 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:25:02 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:25:08 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:25:59 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:26:28 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:26:34 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:26:45 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:27:22 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:28:00 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:28:14 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:28:56 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:30:07 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:30:35 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:30:41 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:31:01 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:31:44 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:32:08 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:32:34 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:32:59 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:33:17 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:33:33 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:34:25 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:34:41 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:35:33 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:37:46 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 15:37:54 - DEBUG - auth.service - login with username: user7 | 507f1f77bcf86cd799439020
+3.6.2025, 15:37:57 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439020","username":"user7","fullname":"7 User 7","score":84,"imgUrl":"https://randomuser.me/api/portraits/men/39.jpg","isAdmin":false,"wishlist":[]} | 507f1f77bcf86cd799439020
+3.6.2025, 15:38:19 - DEBUG - auth.service - login with username: guest | 507f1f77bcf86cd799439020
+3.6.2025, 15:38:19 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":120,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a7173f","68370b6efcf9c12961a71768","68370b6efcf9c12961a71780"]} | 507f1f77bcf86cd799439020
