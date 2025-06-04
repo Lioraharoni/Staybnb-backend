@@ -82,7 +82,7 @@ async function remove(userId) {
 
 async function update(user) {
     try {
-           const allowedFields = ['fullname', 'score', 'isAdmin', 'imgUrl']
+           const allowedFields = ['fullname', 'score', 'isAdmin', 'imgUrl', 'wishlist']
         // peek only updatable properties
         // const { _id, ...user2 } = user
         const userToSave = allowedFields.reduce((acc, curr) => {

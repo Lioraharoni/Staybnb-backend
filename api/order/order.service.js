@@ -89,20 +89,36 @@ async function update(order) {
 
 async function add(order) {
     try {
-        console.log("adding", { order });
+        // console.log("adding", { order });
+        const { stay, guest, host, from, to, price, guests } = order
 
-        // peek only updatable fields!
-        // const orderToAdd = {
-        //     stayId: order.stayId,
-        //     user: order.user,
-        //     from: order.from,
-        //     to: order.to,
-        //     price: order.price,
-        //     status: order.status,
-        //     guests: order.guests
-        // }
-        const collection = await dbService.getCollection('order')
-        await collection.insertOne(order)
+        const orderToAdd = {
+            stay: {
+                stayId: mongoId(stay._id),
+                name: stay.name,
+                city: stay.loc.city,
+                country: stay.loc.country,
+                imgUrls: stay.imgUrls,
+                rating: stay.rating
+            },
+            guest: {
+                guestId: mongoId(guest._id),
+                fullname: guest.fullname,
+                imgUrl: guest.imgUrl
+            },
+            host: {
+                hostId: mongoId(host.hostId),
+                fullname: host.fullname,
+                imgUrl: host.imgUrl
+            },
+            from,
+            to,
+            price,
+            status: 'pending',
+            guests
+        }
+        const collection = await dbService.getCollection(ORDER_COLLECTION_NAME)
+        await collection.insertOne(orderToAdd)
         return order
     } catch (err) {
         logger.error('cannot add order', err)
@@ -124,5 +140,6 @@ function _buildCriteria(filterBy) {
     }
 
     // console.log("_buildCriteria", { loggedinUser }, "filterBy.userType ", filterBy.userType);
+    // console.log({ criteria })
     return criteria
 }

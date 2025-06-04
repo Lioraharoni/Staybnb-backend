@@ -7,7 +7,7 @@ import { requireAuth } from '../../middlewares/requireAuth.middleware.js'
 const router = express.Router()
 
 // We can add a middleware for the entire router:
-// router.use(requireAuth)
+// router.use(log)
 
 router.get('/', getStays)
 router.get('/:id', getStayById)

@@ -634,3 +634,196 @@
 3.6.2025, 15:37:57 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439020","username":"user7","fullname":"7 User 7","score":84,"imgUrl":"https://randomuser.me/api/portraits/men/39.jpg","isAdmin":false,"wishlist":[]} | 507f1f77bcf86cd799439020
 3.6.2025, 15:38:19 - DEBUG - auth.service - login with username: guest | 507f1f77bcf86cd799439020
 3.6.2025, 15:38:19 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439011","username":"guest","fullname":"GUEST","score":120,"imgUrl":"https://randomuser.me/api/portraits/men/30.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a7173f","68370b6efcf9c12961a71768","68370b6efcf9c12961a71780"]} | 507f1f77bcf86cd799439020
+3.6.2025, 16:05:04 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 16:05:09 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:05:09 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:05:09 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:05:09 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:45 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:45 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:45 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:45 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:52 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:52 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:52 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:08:52 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:09 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:09 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:09 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:09 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:58 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:58 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:58 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:11:58 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:14:01 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:14:01 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:14:01 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:14:01 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:15:08 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:15:08 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:15:08 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:15:08 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:16:56 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:16:56 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:16:56 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:16:56 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:01 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:01 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:01 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:01 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:22 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:22 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:22 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:22 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:49 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:49 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:49 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:49 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:54 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:54 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:54 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:17:54 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:20:42 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:20:42 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:20:42 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:20:42 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:11 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:11 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:11 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:11 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:24 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:24 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:24 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:22:25 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:33:32 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:33:32 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:33:33 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:33:33 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:01 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:01 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:01 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:01 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:16 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:16 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:16 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:16 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:25 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:25 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:25 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:34:25 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:37:19 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:37:19 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:37:19 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:37:19 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:38:08 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:38:08 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:38:08 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:38:08 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:44:10 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:44:10 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:44:10 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:44:10 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:45:12 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:45:12 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:45:12 - ERROR - cannot find stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:45:12 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading '_id')
+3.6.2025, 16:46:00 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 16:46:53 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 16:47:21 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 16:47:36 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:15:48 - DEBUG - auth.service - login with username: host
+3.6.2025, 18:15:48 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":[]}
+3.6.2025, 18:19:18 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:19:30 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:21:09 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:22:17 - DEBUG - auth.service - login with username: host
+3.6.2025, 18:22:17 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":[]}
+3.6.2025, 18:22:53 - DEBUG - auth.service - login with username: host
+3.6.2025, 18:22:53 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":[]}
+3.6.2025, 18:23:49 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:25:47 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:26:24 - DEBUG - auth.service - signup with username: ddd, fullname: D D
+3.6.2025, 18:26:26 - DEBUG - auth.route - new account created: {"username":"ddd","password":"$2b$10$Svo/khuaGLaVTh.ZhNi2huYB/77S/naW1OMkN44shIh.dAQp/MDrO","fullname":"D D","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":100,"wishlist":[],"_id":"683f14228b258ad6b8786297"}
+3.6.2025, 18:26:26 - DEBUG - auth.service - login with username: ddd
+3.6.2025, 18:26:27 - INFO - User signup: | {"_id":"683f14228b258ad6b8786297","username":"ddd","fullname":"D D","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","isAdmin":null,"score":100,"wishlist":[]}
+3.6.2025, 18:33:23 - DEBUG - auth.service - login with username: user1
+3.6.2025, 18:33:23 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false,"wishlist":[]}
+3.6.2025, 18:34:51 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:35:47 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:36:19 - DEBUG - auth.service - login with username: user1
+3.6.2025, 18:36:20 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false,"wishlist":[]}
+3.6.2025, 18:37:23 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 18:37:34 - DEBUG - auth.service - login with username: user1
+3.6.2025, 18:37:34 - ERROR - Failed to Login Invalid username or password
+3.6.2025, 18:37:55 - DEBUG - auth.service - login with username: user1
+3.6.2025, 18:37:55 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false,"wishlist":[]}
+3.6.2025, 18:43:46 - DEBUG - auth.service - login with username: user1
+3.6.2025, 18:43:47 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false,"wishlist":[]}
+3.6.2025, 18:44:08 - DEBUG - auth.service - login with username: user2
+3.6.2025, 18:44:08 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439015","username":"user2","fullname":"2 User 2","score":66,"imgUrl":"https://randomuser.me/api/portraits/men/34.jpg","isAdmin":false,"wishlist":[]}
+3.6.2025, 18:49:01 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 19:17:47 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 19:17:58 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 19:18:05 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 19:18:20 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 19:19:28 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 19:23:31 - ERROR - cannot add order | ReferenceError: fullname is not defined | 507f1f77bcf86cd799439015
+3.6.2025, 19:23:31 - ERROR - Failed to add order | ReferenceError: fullname is not defined | 507f1f77bcf86cd799439015
+3.6.2025, 19:25:27 - ERROR - cannot add order | ReferenceError: fullname is not defined | 507f1f77bcf86cd799439015
+3.6.2025, 19:25:27 - ERROR - Failed to add order | ReferenceError: fullname is not defined | 507f1f77bcf86cd799439015
+3.6.2025, 19:25:55 - ERROR - cannot add order | ReferenceError: fullname is not defined | 507f1f77bcf86cd799439015
+3.6.2025, 19:25:55 - ERROR - Failed to add order | ReferenceError: fullname is not defined | 507f1f77bcf86cd799439015
+3.6.2025, 19:30:17 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 19:33:55 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:01:21 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:02:50 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:07:00 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:08:09 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:08:31 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:10:03 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:12:45 - INFO - Server is running on: http://localhost:3030/
+3.6.2025, 20:14:56 - DEBUG - auth.service - login with username: host
+3.6.2025, 20:14:57 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":[]}
+3.6.2025, 20:16:34 - DEBUG - auth.service - login with username: bbb
+3.6.2025, 20:16:34 - INFO - User login:  | {"_id":"6838d58d406510e3ac938042","username":"bbb","fullname":"B B","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100,"wishlist":[]}
+3.6.2025, 20:18:12 - DEBUG - auth.service - login with username: host
+3.6.2025, 20:18:12 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":["68370b6efcf9c12961a71745","68370b6efcf9c12961a7174b","68370b6efcf9c12961a7174e","68370b6efcf9c12961a71751","68370b6efcf9c12961a71752"]}
+3.6.2025, 20:39:55 - ERROR - Failed to delete review | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:39:55 - ERROR - cannot remove stay review 68370b6efcf9c12961a71797 undefined | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:40:57 - ERROR - Failed to delete review | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:40:57 - ERROR - cannot remove stay review 68370b6efcf9c12961a71797 undefined | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:42:10 - ERROR - cannot remove stay review 68370b6efcf9c12961a71797 undefined | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:42:10 - ERROR - Failed to delete review | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:42:52 - ERROR - cannot remove stay review 68370b6efcf9c12961a71797 undefined | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:42:52 - ERROR - Failed to delete review | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:45:23 - ERROR - cannot remove stay review 68370b6efcf9c12961a71797 WI0eEH | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:45:23 - ERROR - Failed to delete review | Not your review | 507f1f77bcf86cd799439012
+3.6.2025, 20:49:00 - DEBUG - auth.service - login with username: aaa
+3.6.2025, 20:49:01 - INFO - User login:  | {"_id":"6838d485406510e3ac938041","username":"aaa","fullname":"A A","imgUrl":"https://randomuser.me/api/portraits/men/99.jpg","isAdmin":false,"score":100,"wishlist":[]}
+3.6.2025, 21:34:10 - DEBUG - auth.service - login with username: host
+3.6.2025, 21:34:10 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":["68370b6efcf9c12961a71745","68370b6efcf9c12961a7174b","68370b6efcf9c12961a7174e","68370b6efcf9c12961a71751","68370b6efcf9c12961a71752","68370b6efcf9c12961a71797"]}
+4.6.2025, 1:30:30 - DEBUG - auth.service - login with username: user8
+4.6.2025, 1:30:31 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439021","username":"user8","fullname":"8 User 8","score":54,"imgUrl":"https://randomuser.me/api/portraits/men/40.jpg","isAdmin":false,"wishlist":[]}
+4.6.2025, 10:15:24 - ERROR - while finding stay undefined | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439021
+4.6.2025, 10:15:24 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439021
+4.6.2025, 10:15:42 - ERROR - while finding stay undefined | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439021
+4.6.2025, 10:15:42 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439021
+4.6.2025, 12:42:24 - DEBUG - auth.service - login with username: host
+4.6.2025, 12:42:25 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":["68370b6efcf9c12961a71745","68370b6efcf9c12961a7174b","68370b6efcf9c12961a7174e","68370b6efcf9c12961a71751","68370b6efcf9c12961a71752","68370b6efcf9c12961a71797","68370b6efcf9c12961a71740"]}
+4.6.2025, 12:46:28 - DEBUG - auth.service - login with username: host
+4.6.2025, 12:46:28 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":["68370b6efcf9c12961a71745","68370b6efcf9c12961a7174b","68370b6efcf9c12961a7174e","68370b6efcf9c12961a71751","68370b6efcf9c12961a71752","68370b6efcf9c12961a71797","68370b6efcf9c12961a71740"]}
+4.6.2025, 12:48:26 - DEBUG - auth.service - login with username: user6
+4.6.2025, 12:48:26 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":[]}
+4.6.2025, 12:48:51 - DEBUG - auth.service - login with username: 
+4.6.2025, 12:48:51 - ERROR - Failed to Login Invalid username or password
+4.6.2025, 12:55:25 - DEBUG - auth.service - login with username: user6
+4.6.2025, 12:55:25 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":[]}
+4.6.2025, 13:21:41 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:21:53 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:22:16 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:22:59 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:23:06 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:23:28 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:23:51 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:24:23 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:24:30 - INFO - Server is running on: http://localhost:3030/

@@ -25,10 +25,8 @@ export const stayService = {
 async function query(filterBy = {}) {
     try {
         console.log("query", filterBy);
-        const { loggedinUser } = asyncLocalStorage.getStore()
-        const fullLoggedinUser = await userService.getById(loggedinUser._id)
 
-        const criteria = _buildCriteria(filterBy, fullLoggedinUser)
+        const criteria = await _buildCriteria(filterBy)
         const sort = _buildSort(filterBy)
 
         // console.log("query criteria", criteria);
@@ -153,14 +151,19 @@ export async function removeStayReview(stayId, reviewId) {
 
         if (!loggedinUser.isAdmin) {
             criteria['reviews.reviewId'] = reviewId,
-            criteria['reviews.by.userId'] = mongoId(loggedinUser._id)
+                criteria['reviews.by.userId'] = mongoId(loggedinUser._id)
         }
         // console.log({criteria});
-        
+
         const collection = await dbService.getCollection(STAY_COLLECTION_NAME)
-        const result = await collection.updateOne(criteria, { $pull: { reviews: { reviewId, 
-            'by.userId': mongoId(loggedinUser._id)
-         } } })
+        const result = await collection.updateOne(criteria, {
+            $pull: {
+                reviews: {
+                    reviewId,
+                    'by.userId': mongoId(loggedinUser._id)
+                }
+            }
+        })
         // console.log("removeStayReview", stayId, reviewId, "result=",result);
         if (result.modifiedCount === 0) throw ('Not your review')
     } catch (err) {
@@ -169,15 +172,17 @@ export async function removeStayReview(stayId, reviewId) {
     }
 }
 
-function _buildCriteria(filterBy, fullLoggedinUser) {
+async function _buildCriteria(filterBy) {
     const criteria = {}
+    const { loggedinUser } = asyncLocalStorage.getStore()
 
     if (filterBy.category) {
         criteria.categories = filterBy.category;
     }
 
-    if (filterBy.wishlist) {
+    if (loggedinUser && filterBy.wishlist) {
 
+        const fullLoggedinUser = await userService.getById(loggedinUser._id)
         const wishlistIds = fullLoggedinUser.wishlist.map(id => mongoId(id));
         // console.log({ wishlistIds });
         criteria._id = { $in: wishlistIds }

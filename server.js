@@ -37,6 +37,10 @@ app.use(express.json())
 // }
 
 app.all('/*all', setupAsyncLocalStorage)
+// app.use((req, res, next) => {
+//     console.log(req); 
+// next()
+// })
 
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)

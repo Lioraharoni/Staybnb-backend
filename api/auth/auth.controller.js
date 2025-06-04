@@ -46,11 +46,13 @@ export async function signup(req, res) {
 
 export async function logout(req, res) {
     try {
+        // console.log("logout");    
         res.clearCookie('loginToken')
+        // console.log("cookie cleared");
         // const loginToken = req.cookies['loginToken'];
         // console.log("logout", "loginToken", loginToken);
         
-        res.send({ msg: 'Logged out successfully', loginToken })
+        res.send({ msg: 'Logged out successfully' })
     } catch (err) {
         res.status(400).send({ err: 'Failed to logout' })
     }
