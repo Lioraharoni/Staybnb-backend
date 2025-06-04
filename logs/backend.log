@@ -827,3 +827,16 @@
 4.6.2025, 13:23:51 - INFO - Server is running on: http://localhost:3030/
 4.6.2025, 13:24:23 - INFO - Server is running on: http://localhost:3030/
 4.6.2025, 13:24:30 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:46:06 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 13:51:55 - ERROR - Failed to delete review | Not your review | 507f1f77bcf86cd799439019
+4.6.2025, 13:51:55 - ERROR - cannot remove stay review 68370b6ffcf9c12961a7187d VPp1l6 | Not your review | 507f1f77bcf86cd799439019
+4.6.2025, 14:00:17 - DEBUG - auth.service - login with username: user6
+4.6.2025, 14:00:17 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a71743"]}
+4.6.2025, 14:00:52 - DEBUG - auth.service - login with username: user6
+4.6.2025, 14:00:53 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a71743"]}
+4.6.2025, 14:06:48 - ERROR - while finding stay undefined | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439019
+4.6.2025, 14:06:48 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439019
+4.6.2025, 14:13:59 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 14:14:30 - DEBUG - auth.service - login with username: user6 | 507f1f77bcf86cd799439019
+4.6.2025, 14:14:30 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a71743","68370b6efcf9c12961a71747"]} | 507f1f77bcf86cd799439019
+4.6.2025, 14:27:15 - INFO - Server is running on: http://localhost:3030/

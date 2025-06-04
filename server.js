@@ -21,9 +21,9 @@ app.use(cookieParser())
 app.use(express.json())
 // app.use(bodyParser.json());
 
-// if (process.env.NODE_ENV === 'production') {
-//     app.use(express.static(path.resolve('public')))
-// } else {
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static(path.resolve('public')))
+} else {
     const corsOptions = {
         origin: [
             'http://127.0.0.1:3000',
@@ -34,7 +34,7 @@ app.use(express.json())
         credentials: true
     }
     app.use(cors(corsOptions))
-// }
+}
 
 app.all('/*all', setupAsyncLocalStorage)
 // app.use((req, res, next) => {
