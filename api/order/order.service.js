@@ -18,10 +18,11 @@ async function query(filterBy = {}) {
 
     // console.log("query", filterBy);
     const criteria = _buildCriteria(filterBy)
+    const sort =  { _id: -1 } 
 
     try {
         const collection = await dbService.getCollection(ORDER_COLLECTION_NAME)
-        var orders = await collection.find(criteria).toArray()
+        var orders = await collection.find(criteria, { sort }).toArray()
         // console.log("orders count", orders.length);
 
         orders = orders.map(order => {

@@ -840,3 +840,47 @@
 4.6.2025, 14:14:30 - DEBUG - auth.service - login with username: user6 | 507f1f77bcf86cd799439019
 4.6.2025, 14:14:30 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a71743","68370b6efcf9c12961a71747"]} | 507f1f77bcf86cd799439019
 4.6.2025, 14:27:15 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 15:34:24 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 15:35:10 - DEBUG - auth.service - login with username: user6 | 507f1f77bcf86cd799439019
+4.6.2025, 15:35:10 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a71743","68370b6efcf9c12961a71747","68370b6efcf9c12961a71750","68370b6efcf9c12961a7175c","68370b6efcf9c12961a7176d","68370b6efcf9c12961a7176e"]} | 507f1f77bcf86cd799439019
+4.6.2025, 15:39:38 - DEBUG - auth.service - login with username: host
+4.6.2025, 15:39:38 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":["68370b6efcf9c12961a71745","68370b6efcf9c12961a7174b","68370b6efcf9c12961a7174e","68370b6efcf9c12961a71751","68370b6efcf9c12961a71752","68370b6efcf9c12961a71797","68370b6efcf9c12961a71740"]}
+4.6.2025, 15:48:01 - DEBUG - auth.service - login with username: USER6
+4.6.2025, 15:48:01 - ERROR - Failed to Login Invalid username or password
+4.6.2025, 15:48:22 - DEBUG - auth.service - login with username: user6
+4.6.2025, 15:48:23 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439019","username":"user6","fullname":"6 User 6","score":49,"imgUrl":"https://randomuser.me/api/portraits/men/38.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a71743","68370b6efcf9c12961a71747","68370b6efcf9c12961a71750","68370b6efcf9c12961a7175c","68370b6efcf9c12961a7176d","68370b6efcf9c12961a7176e"]}
+4.6.2025, 15:59:15 - DEBUG - auth.service - login with username: host
+4.6.2025, 15:59:15 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439012","username":"host","fullname":"HOST","score":60,"imgUrl":"https://randomuser.me/api/portraits/men/31.jpg","isAdmin":true,"wishlist":["68370b6efcf9c12961a71745","68370b6efcf9c12961a7174b","68370b6efcf9c12961a7174e","68370b6efcf9c12961a71751","68370b6efcf9c12961a71752","68370b6efcf9c12961a71797","68370b6efcf9c12961a71740"]}
+4.6.2025, 18:03:57 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 18:06:01 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 19:58:25 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 19:58:32 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'city') | 507f1f77bcf86cd799439011
+4.6.2025, 19:58:32 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'city') | 507f1f77bcf86cd799439011
+4.6.2025, 19:59:03 - ERROR - cannot find stays | TypeError: Cannot set properties of undefined (setting 'city') | 507f1f77bcf86cd799439011
+4.6.2025, 19:59:03 - ERROR - Failed to get stays | TypeError: Cannot set properties of undefined (setting 'city') | 507f1f77bcf86cd799439011
+4.6.2025, 20:00:53 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 20:09:04 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 20:14:25 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 20:37:19 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 20:39:05 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 20:39:25 - INFO - Server is running on: http://localhost:3030/
+4.6.2025, 21:09:12 - DEBUG - auth.service - login with username: user1
+4.6.2025, 21:09:12 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439014","username":"user1","fullname":"1 User 1","score":30,"imgUrl":"https://randomuser.me/api/portraits/men/33.jpg","isAdmin":false,"wishlist":[]}
+5.6.2025, 0:51:37 - ERROR - while finding stay undefined | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+5.6.2025, 0:51:37 - ERROR - Failed to get stay | BSONError: hex string must be 24 characters | 507f1f77bcf86cd799439014
+5.6.2025, 11:45:45 - DEBUG - auth.service - login with username: noam | 507f1f77bcf86cd799439014
+5.6.2025, 11:45:45 - INFO - User login:  | {"_id":"507f1f77bcf86cd799439021","username":"noam","fullname":"Noam Golan","score":54,"imgUrl":"https://randomuser.me/api/portraits/men/40.jpg","isAdmin":false,"wishlist":["68370b6efcf9c12961a71742","68370b6efcf9c12961a71741","68370b6efcf9c12961a7174a"]} | 507f1f77bcf86cd799439014
+5.6.2025, 11:53:06 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 11:58:09 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 11:59:06 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:02:19 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:14:54 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:16:30 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:16:48 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:49:25 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:49:28 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:50:59 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:51:16 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:54:17 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:54:48 - INFO - Server is running on: http://localhost:3030/
+5.6.2025, 12:55:42 - INFO - Server is running on: http://localhost:3030/

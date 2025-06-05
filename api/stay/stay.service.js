@@ -180,6 +180,21 @@ async function _buildCriteria(filterBy) {
         criteria.categories = filterBy.category;
     }
 
+    if (filterBy.location) {
+        console.log("filterBy.location", filterBy.location);
+
+        criteria["loc.city"] = filterBy.location
+    }
+
+    if (filterBy.guests) {
+        const num = parseInt(filterBy.guests)
+        console.log("filterBy.guests", num)
+        // if (typeof filterBy.guests === 'string' && !isNaN(filterBy.guests)) {
+        filterBy.guests = num
+        // }
+        criteria["maxGuests"] = { $gte: filterBy.guests }
+    }
+
     if (loggedinUser && filterBy.wishlist) {
 
         const fullLoggedinUser = await userService.getById(loggedinUser._id)
@@ -194,9 +209,9 @@ async function _buildCriteria(filterBy) {
 
 function _buildSort(filterBy) {
 
-    if (filterBy.sortField) {
+    // if (filterBy.sortField) {
         return { rating: -1 }
-    }
+    // }
     // if (!filterBy.sortField) return {}
     // return { [filterBy.sortField]: filterBy.sortDir }
 }

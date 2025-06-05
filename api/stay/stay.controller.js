@@ -5,7 +5,9 @@ export async function getStays(req, res) {
     try {
         // console.log("getStays");
         const filterBy = {
+            guests: req.query.guests,
             category: req.query.category,
+            location: req.query.location,
             sortField: req.query.sortField || '',
             sortDir: req.query.sortDir || 1,
             pageIdx: req.query.pageIdx,
